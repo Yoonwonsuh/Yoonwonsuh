@@ -1,5 +1,5 @@
 I'm a FrontEnd developer from Korea </br></br>
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](yoonwon.suh@gncomms.com)
 </br>
 </br>
 
