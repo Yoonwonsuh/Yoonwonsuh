@@ -25,7 +25,7 @@ iOS·Android·Web·Windows까지 하나의 코드베이스로 실서비스를 �
 | | 프로젝트 | 한 줄 소개 | 스택 |
 |:-:|---|---|---|
 | 01 | **스피킹1000**<br/>[App Store](https://apps.apple.com/kr/app/id6823886168) · [Google Play](https://play.google.com/store/apps/details?id=com.speaking1000.app) · [Web](https://speaking1000.com) | 말하면 바로 채점되는 영어 발화 훈련 앱. 앱·백엔드·어드민·웹·브랜드까지 **100% 단독 구축** | Flutter · Riverpod · NestJS · Prisma · PostgreSQL · Cloud Run |
-| 02 | **링키고 3.0** | AI 영어 학습 앱 전담 개발. CustomPainter만으로 만든 **아이소메트릭 방 꾸미기 엔진**(쿼카룸), STT/TTS 발화 학습 | Flutter · CustomPainter · Rive · Rust FFI · Firebase |
+| 02 | **링키고 3.0**<br/>[App Store](https://apps.apple.com/kr/app/id6755289429) · [Google Play](https://play.google.com/store/apps/details?id=app.remarkable.reengkigo) | AI 영어 학습 앱 전담 개발. CustomPainter만으로 만든 **아이소메트릭 방 꾸미기 엔진**(쿼카룸), STT/TTS 발화 학습 | Flutter · CustomPainter · Rive · Rust FFI · Firebase |
 | 03 | **링키톡** | 사내 고객지원 채팅 서비스. WebSocket 실시간 채팅 + AI 봇 핸드오프, **Web·Windows 단일 코드베이스** | Flutter Web · Windows · WebSocket · FCM |
 | 04 | **링키고1 · Flash → Flutter Web** | 14GB 레거시 Flash 콘텐츠를 자동 추출 파이프라인으로 복원해 웹앱으로 재탄생 | Flutter Web · Python · FFDec |
 | 05 | **TonePick**<br/>[tonepick.com](http://tonepick.com) | 퍼스널컬러 진단 앱. BLE 측색기 연동, AES-CBC 암호화 QR로 오프라인→온라인 결과 전달 | Flutter · BLE/GATT · Firebase · ML Kit |
