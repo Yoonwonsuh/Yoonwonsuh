@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Yoonwon Suh — Flutter Developer">
+  <defs>
+    <radialGradient id="sky" cx="78%" cy="20%" r="55%">
+      <stop offset="0" stop-color="#AED8E6" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#AED8E6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="beige" cx="12%" cy="95%" r="50%">
+      <stop offset="0" stop-color="#D2C4B1" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#D2C4B1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="g1" x1="8" y1="8" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4A7BAA"/><stop offset="1" stop-color="#2A4B7C"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="56" y1="8" x2="24" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#AED8E6"/><stop offset="1" stop-color="#8FC3D6"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="32" y1="34" x2="32" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2A4B7C"/><stop offset="1" stop-color="#D2C4B1"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="300" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="300" fill="#FAF6F0"/>
+    <rect width="1200" height="300" fill="url(#sky)"/>
+    <rect width="1200" height="300" fill="url(#beige)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="299" rx="28" fill="none" stroke="#E6DDD0"/>
+
+  <!-- Y mark -->
+  <g transform="translate(72 96) scale(1.7)">
+    <path d="M8 8h13l17 26-6.5 8z" fill="url(#g1)"/>
+    <path d="M56 8H43L25.5 34l6.5 8z" fill="url(#g2)"/>
+    <path d="M25.5 36h13v18l-6.5 6-6.5-6z" fill="url(#g3)"/>
+    <path d="M25.5 34l6.5 8 6.5-8-6.5-4z" fill="#1F2A3A" fill-opacity=".18"/>
+  </g>
+
+  <text x="212" y="112" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3.5" fill="#2A4B7C">FLUTTER DEVELOPER  ·  SEOUL</text>
+  <text x="208" y="186" font-family="Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="-1.5" fill="#1F2A3A">Yoonwon Suh <tspan font-style="italic" font-size="60" fill="#B98A4A">crafts apps.</tspan></text>
+  <text x="212" y="230" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#61707F">iOS · Android · Web · Windows — shipping real products from a single Flutter codebase.</text>
+</svg>
